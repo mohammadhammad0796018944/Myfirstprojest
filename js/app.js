@@ -11,7 +11,7 @@ if (numberofgroupplayer<4) {
     }else{
         alert("you cant play just for player");
 
-        
+    }
 if (ageplayer>18){
     alert( "you are allowe to play!");
     
