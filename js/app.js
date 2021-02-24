@@ -13,9 +13,11 @@ if (ageplayer>18){
         alert("you have to go");
     }
 
-if (numberofgroupplayer<4) {
-    alert("please just for player can play in room");
-}
+if (numberofgroupplayer>4) {
+    alert("please you can play");
+    
+    }else{
+        alert("you cant play just for player");
 
 
 
