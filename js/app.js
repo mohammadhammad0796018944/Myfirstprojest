@@ -9,7 +9,7 @@ if (numberofgroupplayer<4) {
     alert("please you can play");
     
     }else{
-        alert("you cant play just for player");
+        alert("you cant play just 4 player or less");
 
     }
 if (ageplayer>18){
