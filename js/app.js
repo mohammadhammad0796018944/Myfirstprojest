@@ -14,6 +14,7 @@ if (numberofgroupplayer<4) {
     }
 if (ageplayer>18){
     alert( "you are allowe to play!");
+    console("welcome")
     
     }else{
         alert("you have to go");
