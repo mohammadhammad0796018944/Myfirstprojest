@@ -13,8 +13,8 @@ if (ageplayer>18){
         alert("you have to go");
     }
 
-if (numberofgroupplayer>4) {
-    alert("please kepp going");
+if (numberofgroupplayer<4) {
+    alert("please just for player can play in room");
 }
 
 
